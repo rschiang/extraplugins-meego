@@ -1,0 +1,34 @@
+<aegis>
+        <request policy="add">
+            <credential name="UID::user" />
+            <credential name="GID::users" />
+            <credential name="GRP::users" />
+            <credential name="TrackerReadAccess" />
+            <credential name="TrackerWriteAccess" />
+            <credential name="GRP::metadata-users" />
+            <credential name="Cellular" />
+            <for path="/opt/extraplugins/bin/icqplugin" />
+            <for path="/opt/extraplugins/bin/icqaccounts" />
+            <for path="/opt/extraplugins/bin/vkplugin" />
+            <for path="/opt/extraplugins/bin/vkaccounts" />
+            <for path="/opt/extraplugins/bin/aolplugin" />
+            <for path="/opt/extraplugins/bin/aolaccounts" />
+            <for path="/opt/extraplugins/bin/jabberplugin" />
+            <for path="/opt/extraplugins/bin/jabberaccounts" />
+            <for path="/opt/extraplugins/bin/msnplugin" />
+            <for path="/opt/extraplugins/bin/msnaccounts" />
+            <for path="/opt/extraplugins/bin/odnkplugin" />
+            <for path="/opt/extraplugins/bin/odnkaccounts" />
+            <for path="/opt/extraplugins/bin/qipplugin" />
+            <for path="/opt/extraplugins/bin/qipaccounts" />
+            <for path="/opt/extraplugins/bin/yahooplugin" />
+            <for path="/opt/extraplugins/bin/yahooaccounts" />
+        </request>
+        <request policy="add">
+                <!-- Application accesses DBus libraries directly. -->
+                <!-- tp_base_connection_change_status -->
+                <!-- tp_run_connection_manager -->
+                <credential name="Cellular" />
+                <for path="/usr/lib/telepathy/telepathy-haze" />
+        </request>
+</aegis>
