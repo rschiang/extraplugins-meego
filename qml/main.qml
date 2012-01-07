@@ -42,7 +42,16 @@ PageStackWindow {
         id: myMenu
         visualParent: pageStack
         MenuLayout {
-            MenuItem { text: qsTrId("qtn_delete_account"); onClicked: actor.deleteAccount() }
+            MenuItem { text: qsTrId("qtn_delete_account"); onClicked: delconfirm.open() }
         }
+    }
+
+    QueryDialog {
+        id: delconfirm
+        titleText: qsTrId("qtn_delete_title")
+        message: qsTrId("qtn_delete_message")
+        acceptButtonText: qsTrId("qtn_delete_accept")
+        rejectButtonText: qsTrId("qtn_delete_reject")
+        onAccepted: actor.deleteAccount()
     }
 }

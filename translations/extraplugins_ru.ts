@@ -3,6 +3,18 @@
 <TS version="2.0" language="ru">
 <context>
     <name></name>
+    <message id="qtn_delete_title">
+        <translation>Удалить учетную запись?</translation>
+    </message>
+    <message id="qtn_delete_message">
+        <translation>Все содержимое, связанное с этой учетной записью будет удалено из мобильного устройства.</translation>
+    </message>
+    <message id="qtn_delete_accept">
+        <translation>Да</translation>
+    </message>
+    <message id="qtn_delete_reject">
+        <translation>Нет</translation>
+    </message>
     <message id="qtn_button_save">
         <translation>Сохранить</translation>
     </message>
@@ -10,7 +22,7 @@
         <translation>Отмена</translation>
     </message>
     <message id="qtn_creating">
-        <translation>Создание учетной записи</translation>
+        <translation>Создание учетной записи...</translation>
     </message>
     <message id="qtn_display_name">
         <translation>Название</translation>
@@ -61,7 +73,7 @@
         <translation>Простой ICQ чат</translation>
     </message>
     <message id="qtn_icq_username">
-        <translation>Введите UIN</translation>
+        <translation>UIN учетной записи</translation>
     </message>
     <message id="qtn_icq_set_username">
         <translation>Необходимо ввести UIN</translation>
@@ -79,7 +91,7 @@
         <translation>Простой чат в сети ВКонтакте</translation>
     </message>
     <message id="qtn_vk_username">
-    <translation>Имя страницы или номер (id1234567)</translation>
+        <translation>Имя страницы или номер (id1234567)</translation>
     </message>
     <message id="qtn_vk_set_username">
         <translation>Необходимо ввести значение</translation>
@@ -97,7 +109,7 @@
         <translation>Простой чат в сети Windows Live</translation>
     </message>
     <message id="qtn_msn_username">
-    <translation>Адрес электронной почты</translation>
+        <translation>Адрес электронной почты</translation>
     </message>
     <message id="qtn_msn_set_username">
         <translation>Необходимо ввести адрес</translation>
@@ -115,7 +127,7 @@
         <translation>Простой чат в сети AIM</translation>
     </message>
     <message id="qtn_aol_username">
-    <translation>Имя пользователя</translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message id="qtn_aol_set_username">
         <translation>Необходимо ввести имя пользователя</translation>
@@ -133,7 +145,7 @@
         <translation>Простой чат в сети Yahoo!</translation>
     </message>
     <message id="qtn_yahoo_username">
-    <translation>Имя пользователя</translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message id="qtn_yahoo_set_username">
         <translation>Необходимо ввести имя пользователя</translation>
@@ -151,7 +163,7 @@
         <translation>QIP/XMPP Jabber</translation>
     </message>
     <message id="qtn_qip_username">
-    <translation>Имя пользователя без @qip.ru</translation>
+        <translation>Имя пользователя без @qip.ru</translation>
     </message>
     <message id="qtn_qip_set_username">
         <translation>Необходимо ввести имя пользователя</translation>
@@ -169,7 +181,7 @@
         <translation>Простой чат в сети Одноклассники</translation>
     </message>
     <message id="qtn_odnk_username">
-    <translation>Идентификатор пользователя</translation>
+        <translation>Идентификатор пользователя</translation>
     </message>
     <message id="qtn_odnk_set_username">
         <translation>Необходимо ввести идентификатор</translation>
@@ -193,7 +205,7 @@
         <translation>Чат в Jabber/XMPP</translation>
     </message>
     <message id="qtn_jabber_username">
-    <translation>JID пользователя</translation>
+        <translation>JID пользователя</translation>
     </message>
     <message id="qtn_jabber_set_username">
         <translation>Необходимо ввести JID</translation>
