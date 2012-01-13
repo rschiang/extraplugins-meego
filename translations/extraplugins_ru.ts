@@ -63,6 +63,9 @@
     <message id="qtn_icq_name">
         <translation>ICQ</translation>
     </message>
+    <message id="qtn_title_icq">
+        <translation>ICQ</translation>
+    </message>
     <message id="qtn_icq_icon">
         <translation>icon-m-service-icq</translation>
     </message>
@@ -79,6 +82,9 @@
         <translation>Необходимо ввести UIN</translation>
     </message>
     <message id="qtn_vk_name">
+        <translation>ВКонтакте</translation>
+    </message>
+    <message id="qtn_title_vkontakte">
         <translation>ВКонтакте</translation>
     </message>
     <message id="qtn_vk_icon">
@@ -99,6 +105,9 @@
     <message id="qtn_msn_name">
         <translation>Windows Messenger</translation>
     </message>
+    <message id="qtn_title_msn">
+        <translation>Windows Messenger</translation>
+    </message>
     <message id="qtn_msn_icon">
         <translation>icon-m-service-msn-messenger</translation>
     </message>
@@ -115,6 +124,9 @@
         <translation>Необходимо ввести адрес</translation>
     </message>
     <message id="qtn_aol_name">
+        <translation>AIM</translation>
+    </message>
+    <message id="qtn_title_aol">
         <translation>AIM</translation>
     </message>
     <message id="qtn_aol_icon">
@@ -135,6 +147,9 @@
     <message id="qtn_yahoo_name">
         <translation>Yahoo!</translation>
     </message>
+    <message id="qtn_title_yahoo">
+        <translation>Yahoo!</translation>
+    </message>
     <message id="qtn_yahoo_icon">
         <translation>icon-m-service-yahoo-messenger</translation>
     </message>
@@ -153,6 +168,9 @@
     <message id="qtn_qip_name">
         <translation>QIP</translation>
     </message>
+    <message id="qtn_title_qip">
+        <translation>QIP</translation>
+    </message>
     <message id="qtn_qip_icon">
         <translation>icon-m-service-qip</translation>
     </message>
@@ -169,6 +187,9 @@
         <translation>Необходимо ввести имя пользователя</translation>
     </message>
     <message id="qtn_odnk_name">
+        <translation>Одноклассники</translation>
+    </message>
+    <message id="qtn_title_odnoklassniki">
         <translation>Одноклассники</translation>
     </message>
     <message id="qtn_odnk_icon">
@@ -192,7 +213,7 @@
     <message id="qtn_odnk_extra_link">
         <translation>http://wiki.qip.ru/%D0%9E%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B8</translation>
     </message>
-    <message id="qtn_jabber_name">
+    <message id="qtn_title_jabber">
         <translation>Jabber/XMPP</translation>
     </message>
     <message id="qtn_jabber_icon">
@@ -209,6 +230,27 @@
     </message>
     <message id="qtn_jabber_set_username">
         <translation>Необходимо ввести JID</translation>
+    </message>
+    <message id="qtn_gadugadu_name">
+        <translation>Gadu-Gadu</translation>
+    </message>
+    <message id="qtn_title_gadugadu">
+        <translation>Gadu-Gadu</translation>
+    </message>
+    <message id="qtn_gadugadu_icon">
+        <translation>icon-m-service-gadugadu</translation>
+    </message>
+    <message id="qtn_gadugadu_description">
+        <translation>Простой чат Gadu-Gadu</translation>
+    </message>
+    <message id="qtn_gadugadu_setup">
+        <translation>Простой чат Gadu-Gadu</translation>
+    </message>
+    <message id="qtn_gadugadu_username">
+        <translation>Номер аккаунта</translation>
+    </message>
+    <message id="qtn_gadugadu_set_username">
+        <translation>Необходимо ввести номер</translation>
     </message>
 </context>
 </TS>

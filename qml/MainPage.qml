@@ -1,9 +1,9 @@
 import QtQuick 1.1
 import com.nokia.meego 1.0
-import com.nokia.extras 1.0
 
 Page {
     id: mainPage
+    anchors.fill: parent
 
     Component.onCompleted: {
         if (initType==1)
@@ -46,14 +46,13 @@ Page {
 
     Flickable {
         anchors.fill: parent
-        anchors.leftMargin: 5
-        anchors.rightMargin: 5
-        flickableDirection: Flickable.VerticalFlick
+        anchors.margins: 5
         contentWidth: width
-        contentHeight: content.height+5
+        contentHeight: contentcolumn.height
+        boundsBehavior: Flickable.StopAtBounds
 
         Column {
-            id: content
+            id: contentcolumn
             width: parent.width
             spacing: 10
 
@@ -110,7 +109,7 @@ Page {
                 label: qsTrId("qtn_port")
                 placeholderText: qsTrId("qtn_set_default_port")
                 clearbutton: true
-                visible: initType==1
+                visible: portinactive?false:(initType==1)
                 text: porttext
             }
 

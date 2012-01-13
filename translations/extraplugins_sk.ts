@@ -1,64 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="en">
+<TS version="2.0" language="sk">
 <context>
     <name></name>
     <message id="qtn_delete_title">
-        <translation>Delete account?</translation>
+        <translation>Vymazať účet?</translation>
     </message>
     <message id="qtn_delete_message">
-        <translation>All content related to this account will be deleted from your mobile.</translation>
+        <translation>Všetok obsah spojený s týmto účtom bude z telefónu odstránený.</translation>
     </message>
     <message id="qtn_delete_accept">
-        <translation>Yes</translation>
+        <translation>Áno</translation>
     </message>
     <message id="qtn_delete_reject">
-        <translation>No</translation>
+        <translation>Nie</translation>
     </message>
     <message id="qtn_button_save">
-        <translation>Save</translation>
+        <translation>Uložiť</translation>
     </message>
     <message id="qtn_button_cancel">
-        <translation>Cancel</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message id="qtn_creating">
-        <translation>Account is being created...</translation>
+        <translation>Účet sa vytvára...</translation>
     </message>
     <message id="qtn_display_name">
-        <translation>Display name</translation>
+        <translation>Zobrazované meno</translation>
     </message>
     <message id="qtn_password">
-        <translation>Password</translation>
+        <translation>Heslo</translation>
     </message>
     <message id="qtn_port">
-        <translation>Connection port</translation>
+        <translation>Port</translation>
     </message>
     <message id="qtn_server">
-        <translation>Connection server</translation>
+        <translation>Server</translation>
     </message>
     <message id="qtn_desktop_icon">
-        <translation>Show service icon in menu</translation>
+        <translation>Zobraziť ikonku služby v menu</translation>
     </message>
     <message id="qtn_encryption_enabled">
-        <translation>Require encryption</translation>
+        <translation>Vyžadovať šifrovanie</translation>
     </message>
     <message id="qtn_create_account">
-        <translation>Sign in</translation>
+        <translation>Prihlásiť sa</translation>
     </message>
     <message id="qtn_delete_account">
-        <translation>Delete</translation>
+        <translation>Vymazať</translation>
     </message>
     <message id="qtn_set_display_name">
-        <translation>You should set display name</translation>
+        <translation>Zadajte zobrazované meno</translation>
     </message>
     <message id="qtn_set_password">
-        <translation>You should set password</translation>
+        <translation>Zadajte heslo</translation>
     </message>
     <message id="qtn_set_default_port">
-        <translation>Default port will be used</translation>
+        <translation>Použitý bude predvolený port</translation>
     </message>
     <message id="qtn_set_default_server">
-        <translation>Default server will be used</translation>
+        <translation>Použitý bude predvolený server</translation>
     </message>
     <message id="qtn_icq_name">
         <translation>ICQ</translation>
@@ -70,81 +70,84 @@
         <translation>icon-m-service-icq</translation>
     </message>
     <message id="qtn_icq_description">
-        <translation>Simple ICQ chat</translation>
+        <translation>ICQ chat</translation>
     </message>
     <message id="qtn_icq_setup">
-        <translation>Simple ICQ chat</translation>
+        <translation>ICQ chat</translation>
     </message>
     <message id="qtn_icq_username">
-        <translation>Account UIN</translation>
+        <translation>UIN účtu</translation>
     </message>
     <message id="qtn_icq_set_username">
-        <translation>You should set UIN</translation>
-    </message>
-    <message id="qtn_title_vkontakte">
-        <translation>Vkontakte</translation>
+        <translation>Zadajte UIN</translation>
     </message>
     <message id="qtn_vk_name">
+        <translation>Vkontakte</translation>
+    </message>
+    <message id="qtn_title_vkontakte">
         <translation>Vkontakte</translation>
     </message>
     <message id="qtn_vk_icon">
         <translation>icon-m-service-vkontakte</translation>
     </message>
     <message id="qtn_vk_description">
-        <translation>Simple Vkontakte chat</translation>
+        <translation>Vkontakte chat</translation>
     </message>
     <message id="qtn_vk_setup">
-        <translation>Simple Vkontakte chat</translation>
+        <translation>Vkontakte chat</translation>
     </message>
     <message id="qtn_vk_username">
-        <translation>Page name or id (id1234567)</translation>
+        <translation>Meno stránky alebo id (id1234567)</translation>
     </message>
     <message id="qtn_vk_set_username">
-        <translation>You should set value</translation>
-    </message>
-    <message id="qtn_title_msn">
-        <translation>Windows Messenger</translation>
+        <translation>Zadajte hodnotu</translation>
     </message>
     <message id="qtn_msn_name">
+        <translation>Windows Messenger</translation>
+    </message>
+    <message id="qtn_title_msn">
         <translation>Windows Messenger</translation>
     </message>
     <message id="qtn_msn_icon">
         <translation>icon-m-service-msn-messenger</translation>
     </message>
     <message id="qtn_msn_description">
-        <translation>Simple Windows Live chat</translation>
+        <translation>Windows Live chat</translation>
     </message>
     <message id="qtn_msn_setup">
-        <translation>Simple Windows Live chat</translation>
+        <translation>Windows Live chat</translation>
     </message>
     <message id="qtn_msn_username">
-        <translation>Email address</translation>
+        <translation>Emailová adresa</translation>
     </message>
     <message id="qtn_msn_set_username">
-        <translation>You should set address</translation>
-    </message>
-    <message id="qtn_title_aol">
-        <translation>AIM</translation>
+        <translation>Zadajte emailovú adresu</translation>
     </message>
     <message id="qtn_aol_name">
+        <translation>AIM</translation>
+    </message>
+    <message id="qtn_title_aol">
         <translation>AIM</translation>
     </message>
     <message id="qtn_aol_icon">
         <translation>icon-m-service-aol-messenger</translation>
     </message>
     <message id="qtn_aol_description">
-        <translation>Simple AIM chat</translation>
+        <translation>AIM chat</translation>
     </message>
     <message id="qtn_aol_setup">
-        <translation>Simple AIM chat</translation>
+        <translation>AIM chat</translation>
     </message>
     <message id="qtn_aol_username">
-        <translation>Username</translation>
+        <translation>Meno užívateľa</translation>
     </message>
     <message id="qtn_aol_set_username">
-        <translation>You should set username</translation>
+        <translation>Zadajte meno užívateľa</translation>
     </message>
     <message id="qtn_yahoo_name">
+        <translation>Yahoo!</translation>
+    </message>
+    <message id="qtn_title_yahoo">
         <translation>Yahoo!</translation>
     </message>
     <message id="qtn_title_yahoo">
@@ -154,16 +157,16 @@
         <translation>icon-m-service-yahoo-messenger</translation>
     </message>
     <message id="qtn_yahoo_description">
-        <translation>Simple Yahoo! chat</translation>
+        <translation>Yahoo! chat</translation>
     </message>
     <message id="qtn_yahoo_setup">
-        <translation>Simple Yahoo! chat</translation>
+        <translation>Yahoo! chat</translation>
     </message>
     <message id="qtn_yahoo_username">
-        <translation>Username</translation>
+        <translation>Meno užívateľa</translation>
     </message>
     <message id="qtn_yahoo_set_username">
-        <translation>You should set username</translation>
+        <translation>Zadajte meno užívateľa</translation>
     </message>
     <message id="qtn_qip_name">
         <translation>QIP</translation>
@@ -175,16 +178,16 @@
         <translation>icon-m-service-qip</translation>
     </message>
     <message id="qtn_qip_description">
-        <translation>Simple QIP/XMPP chat</translation>
+        <translation>QIP/XMPP chat</translation>
     </message>
     <message id="qtn_qip_setup">
-        <translation>Simple QIP/XMPP chat</translation>
+        <translation>QIP/XMPP chat</translation>
     </message>
     <message id="qtn_qip_username">
-        <translation>Username without @qip.ru</translation>
+        <translation>Meno užívateľa bez @qip.ru</translation>
     </message>
     <message id="qtn_qip_set_username">
-        <translation>You should set username</translation>
+        <translation>Zadajte meno užívateľa</translation>
     </message>
     <message id="qtn_odnk_name">
         <translation>Odnoklassniki</translation>
@@ -196,19 +199,19 @@
         <translation>icon-m-service-odnoklassniki</translation>
     </message>
     <message id="qtn_odnk_description">
-        <translation>Simple Odnoklassniki chat</translation>
+        <translation>Odnoklassniki chat</translation>
     </message>
     <message id="qtn_odnk_setup">
-        <translation>Simple Odnoklassniki chat</translation>
+        <translation>Odnoklassniki chat</translation>
     </message>
         <message id="qtn_odnk_username">
-    <translation>User id</translation>
+    <translation>ID užívateľa</translation>
     </message>
     <message id="qtn_odnk_set_username">
-        <translation>You should set user id</translation>
+        <translation>Zadajte ID užívateľa</translation>
     </message>
     <message id="qtn_odnk_extra_text">
-        <translation>Where to get my id?</translation>
+        <translation>Kde dostanem moje ID?</translation>
     </message>
     <message id="qtn_odnk_extra_link">
         <translation>http://wiki.qip.ru/%D0%9E%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B8</translation>
@@ -223,16 +226,16 @@
         <translation>icon-m-service-jabber</translation>
     </message>
     <message id="qtn_jabber_description">
-        <translation>Simple Jabber chat</translation>
+        <translation>Jabber chat</translation>
     </message>
     <message id="qtn_jabber_setup">
-        <translation>Simple Jabber chat</translation>
+        <translation>Jabber chat</translation>
     </message>
     <message id="qtn_jabber_username">
-        <translation>Account JID</translation>
+        <translation>JID účtu</translation>
     </message>
     <message id="qtn_jabber_set_username">
-        <translation>You should set JID</translation>
+        <translation>Zadajte JID</translation>
     </message>
     <message id="qtn_gadugadu_name">
         <translation>Gadu-Gadu</translation>

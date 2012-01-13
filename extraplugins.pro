@@ -6,6 +6,7 @@ SUBDIRS =   icqplugin \
             yahooplugin \
             qipplugin \
             odnkplugin \
+            gadugaduplugin \
             jabberplugin \
             libpurple \
             haze \
@@ -16,7 +17,7 @@ qml.path = /usr/share/extraplugins/qml
 INSTALLS += qml
 
 OTHER_FILES += \
-    qml/testplugin/*.qml \
+    qml/*.qml \
     qtc_packaging/debian_harmattan/postinst \
     qtc_packaging/debian_harmattan/links \
     qtc_packaging/debian_harmattan/prerm \
